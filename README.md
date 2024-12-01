@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lorenz08.flores@gmail.com**
 
-- ⚡ Fun fact **I do pen spinning tricks 🖊**
+- ⚡ Fun fact **None :D i just love Dark Chocolates**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
