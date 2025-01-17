@@ -35,10 +35,16 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=javascript,py,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,py,nextjs,cs,nodejs,electron)](https://skillicons.dev)
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+### Client
+[![Frontend](https://skillicons.dev/icons?i=react,redux,tailwind,css,html,bootstrap)](https://skillicons.dev)
+
+### Server
+[![Server](https://skillicons.dev/icons?i=express,laravel,dotnet,prisma,mysql,mongodb,postgresql,cassandra)](https://skillicons.dev)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=docker,github,vscode,figma,git)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
