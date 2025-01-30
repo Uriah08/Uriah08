@@ -29,11 +29,11 @@ Welcome to my digital space! I'm Lorenz Flores, a 3rd year Computer Science stud
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=docker,github,vscode,figma,git,postman,pycharm,visualstudio)](https://skillicons.dev)
 
-<!--
+
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
--->
+> <a href="https://drive.google.com/file/d/1aNZW_9tEdtueyEeLV-wglFULhTTTpNni/view?usp=sharing" download>Download my resume</a>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A90F1&height=120&section=footer" alt="footer"/>
 
