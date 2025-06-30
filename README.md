@@ -15,7 +15,7 @@
 -->
 
 ### About Me
-Welcome to my digital space! I'm Lorenz Flores, a 3rd year Computer Science student passionate about crafting intuitive, user-friendly web experiences that make a difference. I'm mastering Next.js and have a strong foundation in JavaScript, I excel at turning ideas into reality with clean, efficient code. Whether it's optimizing front-end performance or solving complex challenges, I'm always eager to apply my skills and knowledge in this ever-evolving field.
+Welcome to my digital space! I'm Lorenz Flores, a 4th year Computer Science student passionate about crafting intuitive, user-friendly web experiences that make a difference. I'm mastering Next.js and have a strong foundation in JavaScript, I excel at turning ideas into reality with clean, efficient code. Whether it's optimizing front-end performance or solving complex challenges, I'm always eager to apply my skills and knowledge in this ever-evolving field.
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,py,nextjs,cs,nodejs)](https://skillicons.dev)
