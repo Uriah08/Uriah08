@@ -1,5 +1,5 @@
 
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A90F1&height=120&section=header" alt="header"/>  -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A90F1&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=1A90F1&width=435&lines=Hi+There!%2C+I'm+Lorenz+Jhay+Flores;A+Fullstack+Developer;A+Software+Engineer;A+UI/UX+Designer" alt="Fullstack Developer"/>
@@ -34,8 +34,7 @@ Welcome to my digital space! I'm Lorenz Flores, a 4th year Computer Science stud
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1aNZW_9tEdtueyEeLV-wglFULhTTTpNni/view?usp=drive_link" download>Download my resume</a>
 
-
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A90F1&height=120&section=footer" alt="footer"/> -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A90F1&height=120&section=footer" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
