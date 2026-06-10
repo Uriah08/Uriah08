@@ -21,13 +21,13 @@ Welcome to my digital space! I'm Lorenz Flores, a 4th year Computer Science stud
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,py,nextjs,cs,nodejs)](https://skillicons.dev)
 
 ### Client
-[![Frontend](https://skillicons.dev/icons?i=react,electron,redux,tailwind,mui,css,html,bootstrap,svg)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,vite,vitest,electron,redux,tailwind,mui,css,html,bootstrap,svg)](https://skillicons.dev)
 
 ### Server
-[![Server](https://skillicons.dev/icons?i=express,dotnet,django,prisma,mysql,mongodb,postgresql,cassandra,googlecloud,firebase,yolo,drizzle,nestjshttps://skillicons.dev)
+[![Server](https://skillicons.dev/icons?i=express,dotnet,django,prisma,mysql,mongodb,postgresql,cassandra,googlecloud,firebase,nestjs)](shttps://skillicons.dev)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=docker,github,vscode,figma,git,postman,pycharm,visualstudio,roboflow)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,figma,postman,pycharm,visualstudio,roboflow)](https://skillicons.dev)
 
 
 ### Employer?
