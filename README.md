@@ -18,10 +18,10 @@
 Welcome to my digital space! I'm Lorenz Flores, a 4th year Computer Science student passionate about crafting intuitive, user-friendly web experiences that make a difference. I'm mastering React and have a strong foundation in JavaScript and C#, I excel at turning ideas into reality with clean, efficient code. Whether it's optimizing front-end performance or solving complex challenges, I'm always eager to apply my skills and knowledge in this ever-evolving field.
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,py,nextjs,cs,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,py,cs,nodejs)](https://skillicons.dev)
 
 ### Client
-[![Frontend](https://skillicons.dev/icons?i=react,vite,vitest,electron,redux,tailwind,mui,css,html,bootstrap,svg)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,vite,nextjs,vitest,electron,redux,tailwind,mui,css,html,bootstrap,svg)](https://skillicons.dev)
 
 ### Server
 [![Server](https://skillicons.dev/icons?i=express,dotnet,django,nestjs,prisma,mysql,mongodb,postgresql,cassandra,googlecloud,firebase)](shttps://skillicons.dev)
