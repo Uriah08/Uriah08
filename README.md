@@ -24,7 +24,7 @@ Welcome to my digital space! I'm Lorenz Flores, a 4th year Computer Science stud
 [![Frontend](https://skillicons.dev/icons?i=react,vite,nextjs,vitest,electron,redux,tailwind,mui,css,html,bootstrap,svg)](https://skillicons.dev)
 
 ### Server
-[![Server](https://skillicons.dev/icons?i=express,dotnet,django,nestjs,prisma,mysql,mongodb,postgresql,cassandra,googlecloud,firebase)](shttps://skillicons.dev)
+[![Server](https://skillicons.dev/icons?i=express,dotnet,django,nestjs,aws,prisma,mysql,mongodb,postgresql,cassandra,googlecloud,firebase)](shttps://skillicons.dev)
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,figma,postman,pycharm,visualstudio,roboflow)](https://skillicons.dev)
