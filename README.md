@@ -29,11 +29,6 @@ Welcome to my digital space! I'm Lorenz Flores, a 4th year Computer Science stud
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,visualstudio,figma,postman,pycharm,roboflow)](https://skillicons.dev)
 
-
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1xevUBw3JUpg_uawAMlM8jD2sfWYNl5bp/view?usp=sharing" download>Download my resume</a>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A90F1&height=120&section=footer" alt="footer"/>
 
 <!--
