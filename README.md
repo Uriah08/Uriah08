@@ -31,6 +31,10 @@ Welcome to my digital space! I'm Lorenz Flores, a Computer Science Major passion
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A90F1&height=120&section=footer" alt="footer"/>
 
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1KjhJS52h0iJN-gSZmN-UbfbzywbYWrtK/view?usp=sharing" download>Download my resume</a>
+
 <!--
      Thanks for being my guest <3
 -->
