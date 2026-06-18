@@ -29,11 +29,13 @@ Welcome to my digital space! I'm Lorenz Flores, a Computer Science Major passion
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,visualstudio,figma,postman,pycharm,roboflow)](https://skillicons.dev)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A90F1&height=120&section=footer" alt="footer"/>
+
 
 ### Employer?
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1KjhJS52h0iJN-gSZmN-UbfbzywbYWrtK/view?usp=sharing" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A90F1&height=120&section=footer" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
