@@ -21,13 +21,13 @@ Welcome to my digital space! I'm Lorenz Flores, a Computer Science Major passion
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,cs,py,claude)](https://skillicons.dev)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,vite,nextjs,vitest,electron,redux,tailwind,mui,css,html,bootstrap,svg,nodejs)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,vite,nextjs,nodejs)](https://skillicons.dev)
 
 ### Backend
-[![Server](https://skillicons.dev/icons?i=express,dotnet,django,nestjs,prisma,mysql,mongodb,postgresql,aws,googlecloud,firebase)](shttps://skillicons.dev)
+[![Server](https://skillicons.dev/icons?i=express,dotnet,django,nestjs)](shttps://skillicons.dev)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,visualstudio,figma,postman,pycharm,roboflow)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,git,github)](https://skillicons.dev)
 
 
 
